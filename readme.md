@@ -1,5 +1,5 @@
 ## Meal Finder App
-
+[DEMO LINK]https://mishtal-andrii.github.io/meal-finder/)
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API
 
 ## Project Specifications
